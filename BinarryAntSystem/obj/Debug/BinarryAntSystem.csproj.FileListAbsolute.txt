@@ -1,0 +1,10 @@
+D:\Latihan\C#\Form\BinarryAntSystem\BinarryAntSystem\BinarryAntSystem\bin\Debug\BinarryAntSystem.exe.config
+D:\Latihan\C#\Form\BinarryAntSystem\BinarryAntSystem\BinarryAntSystem\bin\Debug\BinarryAntSystem.exe
+D:\Latihan\C#\Form\BinarryAntSystem\BinarryAntSystem\BinarryAntSystem\bin\Debug\BinarryAntSystem.pdb
+D:\Latihan\C#\Form\BinarryAntSystem\BinarryAntSystem\BinarryAntSystem\obj\Debug\BinarryAntSystem.csprojAssemblyReference.cache
+D:\Latihan\C#\Form\BinarryAntSystem\BinarryAntSystem\BinarryAntSystem\obj\Debug\BinarryAntSystem.Form1.resources
+D:\Latihan\C#\Form\BinarryAntSystem\BinarryAntSystem\BinarryAntSystem\obj\Debug\BinarryAntSystem.Properties.Resources.resources
+D:\Latihan\C#\Form\BinarryAntSystem\BinarryAntSystem\BinarryAntSystem\obj\Debug\BinarryAntSystem.csproj.GenerateResource.cache
+D:\Latihan\C#\Form\BinarryAntSystem\BinarryAntSystem\BinarryAntSystem\obj\Debug\BinarryAntSystem.csproj.CoreCompileInputs.cache
+D:\Latihan\C#\Form\BinarryAntSystem\BinarryAntSystem\BinarryAntSystem\obj\Debug\BinarryAntSystem.exe
+D:\Latihan\C#\Form\BinarryAntSystem\BinarryAntSystem\BinarryAntSystem\obj\Debug\BinarryAntSystem.pdb
