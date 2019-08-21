@@ -44,20 +44,37 @@ namespace BinarryAntSystem.Item
 
         public double[,] hitungPheromoneUpdate(bool restartPheromone)
         {
-            if (cf < 0.4)
+            if (cf < 0.2)
+            {
                 kib = 1;
-            else if (cf >= 0.4 && cf < 0.6)
+                krb = 0;
+                kgb = 0;
+            }
+            else if (cf >= 0.2 && cf < 0.4)
             {
                 kib = 2 / 3;
                 krb = 1 / 3;
+                kgb = 0;
             }
-            else if (cf >= 0.6 && cf < 0.8)
+            else if (cf >= 0.4 && cf < 0.6)
             {
                 kib = 1 / 3;
                 krb = 2 / 3;
+                kgb = 0;
             }
-            else if (cf >= 0.8)
+            else if (cf >= 0.6 && cf < 0.8)
+            {
+                kib = 0;
                 krb = 1;
+                kgb = 0;
+            }
+            else if(cf >= 0.8)
+            {
+                kib = 0;
+                krb = 0;
+                kgb = 1;
+            }
+
             int jumlahTas = sib.tasSemut.Length;
             int jumlahBarang = sib.barangSemut.Length;
             pheromoneUpdate = new double[jumlahTas, jumlahBarang];
